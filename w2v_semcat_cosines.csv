@@ -1,0 +1,11 @@
+type,word1,word2,cosine
+related,foot,sock,0.56849175319594702
+related,juic,milk,0.7109627977088071
+related,cooki,banana,0.52113984500368349
+related,nose,mouth,0.69362326696385701
+related,dog,cat,0.72516351350601527
+related,hair,eye,0.44924804977314614
+unrelated,sock,juic,0.1762098996508587
+unrelated,milk,foot,0.017896816560221504
+unrelated,banana,nose,0.11117093069754369
+unrelated,mouth,cooki,0.29515949890897475
